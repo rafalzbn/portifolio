@@ -2,14 +2,14 @@
 
 :root {
     --cor-principal: #4b6e77;
-    --cor-secundaria: #28604a;
+    --cor-secundaria: #2d6951a6;
     --cor-destaque: #2bfce0;
 }
 
 body {
     font-family: 'Chakra Petch', sans-serif;
     color: var(--cor-principal);
-    background-color: rgb(157, 245, 211);
+    background-color: rgb(211, 247, 233);
 }
 
 h1, h2, h5 {
